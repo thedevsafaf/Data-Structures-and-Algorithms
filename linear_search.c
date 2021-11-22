@@ -66,6 +66,6 @@ if arr[2] == 456
   2
   index of the key element
 
-result ==> element found at position 2.
+result ==> element found at index position 2.
 
 */
